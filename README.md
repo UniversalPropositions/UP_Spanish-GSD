@@ -14,7 +14,6 @@ In addition, there are a list of verb overview files, one for each Spanish verb.
 They indicate what frames a German verb can take and give examples. They are 
 meant to be viewed in a browser. 
 
-
 ## Changes to Spanish UD
 
 We are currently making no changes to the underlying UD for Spanish.
